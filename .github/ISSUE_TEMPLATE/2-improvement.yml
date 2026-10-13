@@ -1,0 +1,21 @@
+name: Suggest an improvement
+description: A clearer instruction, a missing platform, or a better way for something to work.
+title: "[Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Issues are public: leave out anything about a customer, a deal or a person.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What should change?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it help, and who?
+      description: For example a seller before a pipeline review, or a leader before a forecast call.
+    validations:
+      required: true

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Setup help for Claude, Gemini, Grok and other assistants
+    url: https://mgmt-os.ai/help/ai-assistants
+    about: Step-by-step setup for each assistant.
+  - name: Account, billing or credits
+    url: https://mgmt-os.ai/support
+    about: Questions about your account go to support, not a public issue.
+  - name: Report a security vulnerability
+    url: https://app.mgmt-os.ai/security-policy
+    about: Report privately. Please don't open a public issue for a security problem.
