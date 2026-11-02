@@ -15,7 +15,7 @@
   <a href="https://mgmt-os.ai/support"><b>Support</b></a>
 </p>
 
-Revenue leaders, from founders leading sales to CROs, VPs and frontline managers, use **Management OS** to know which deals are real and who needs coaching. Their teams of account executives, SDRs and customer success managers use it to prepare, prioritize and grow. It runs in its own app and inside Claude, Gemini, Grok and other MCP clients, with ChatGPT next.
+Revenue leaders, from founders leading sales to CROs, VPs and frontline managers, use **Management OS** to know which deals are real and who needs coaching. Their teams of account executives, SDRs and customer success managers use it to prepare, prioritize and grow. It runs in its own app and inside Claude, Gemini, Grok and other MCP clients, with ChatGPT next. It's today's contemporary sales management operating system.
 
 <p align="center">
   <a href="https://github.com/Management-OS-Inc/management-os-plugin"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Management-OS-Inc/.github/main/profile/assets/card-plugin-dark.png"><img width="262" alt="The plugin: evidence-cited deal reads and rep coaching inside Claude, Gemini, Grok and other MCP clients. Install it." src="https://raw.githubusercontent.com/Management-OS-Inc/.github/main/profile/assets/card-plugin-light.png"></picture></a>
